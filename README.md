@@ -19,9 +19,6 @@ Create an account to personalize your VPN experience. Log in securely to access 
 ### 4. One-Click Connect
 
 Experience a seamless connection with the one-click connect feature. Effortlessly establish a secure VPN connection without any complicated setup.
-### 4. User Accounts
-
-Create an account to personalize your shopping experience. Save your favorite flowers, track your order history, and receive exclusive promotions and discounts.
 
 ### 5. Search Functionality
 
