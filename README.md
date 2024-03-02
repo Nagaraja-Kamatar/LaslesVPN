@@ -19,3 +19,15 @@ Create an account to personalize your VPN experience. Log in securely to access 
 ### 4. One-Click Connect
 
 Experience a seamless connection with the one-click connect feature. Effortlessly establish a secure VPN connection without any complicated setup.
+### 4. User Accounts
+
+Create an account to personalize your shopping experience. Save your favorite flowers, track your order history, and receive exclusive promotions and discounts.
+
+### 5. Search Functionality
+
+Use the search bar to find specific flowers or browse by occasion. The website provides quick and efficient results, making it easy to find the perfect floral arrangement.
+
+### 6. Responsive Design
+
+Experience a visually appealing and user-friendly design on various devices. The website is optimized for desktops, tablets, and mobile phones.
+
