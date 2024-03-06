@@ -28,9 +28,3 @@ Use the search bar to find specific flowers or browse by occasion. The website p
 
 Experience a visually appealing and user-friendly design on various devices. The website is optimized for desktops, tablets, and mobile phones.
 
-5. Search Functionality
-Use the search bar to find specific flowers or browse by occasion. The website provides quick and efficient results, making it easy to find the perfect floral arrangement.
-
-6. Responsive Design
-Experience a visually appealing and user-friendly design on various devices. The website is optimized for desktops, tablets, and mobile phones.
-
