@@ -31,6 +31,10 @@ Experience a visually appealing and user-friendly design on various devices. The
 ### 7. Responsive Design
 
 Experience a visually appealing and user-friendly design on various devices. The website is optimized for desktops, tablets, and mobile phones.
+### 8. Responsive Design
+
+Experience a visually appealing and user-friendly design on various devices. The website is optimized for desktops, tablets, and mobile phones.
+
 
 
 
